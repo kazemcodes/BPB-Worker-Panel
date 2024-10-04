@@ -3,6 +3,7 @@
 // @ts-ignore
 // https://github.com/bia-pain-bache/BPB-Worker-Panel
 
+
 import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
